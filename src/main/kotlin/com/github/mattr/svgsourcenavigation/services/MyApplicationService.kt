@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mattr.svgsourcenavigation.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mattr.svgsourcenavigation.MyBundle
 
 class MyApplicationService {
 
